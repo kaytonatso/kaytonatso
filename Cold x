@@ -1,0 +1,201 @@
+DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCADE - Link Collection</title>
+    <meta name="description" content="Aᴄᴏᴅᴇ X Link Collection">
+    <meta name="author" content="NEXUS">
+
+    <meta property="og:title" content="COLD GENERATOR">
+    <meta property="og:description" content="Collection of useful Aᴄᴏᴅᴇ X links and generators">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/image0.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://cdn.discordapp.com/attachments/1356231071125078016/1356270651987726637/image0.jpg?ex=67ebf4f9&is=67eaa379&hm=7810464c3544cffd65e0c7607eff2ab782d80257642f7511a6b883f8f44dd27c&">
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Feather icons alternative to Lucide React -->
+    <script src="https://unpkg.com/feather-icons"></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- Floating chat button -->
+      <button class="chat-button">
+        <i data-feather="message-circle" class="text-white"></i>
+      </button>
+
+      <!-- Title -->
+      <h1 class="title">COLD GENERATOR</h1>
+      
+      <!-- Top row buttons -->
+      <div class="button-row">
+        
+        
+        <a href="NO LINK" target="_blank" rel="noopener noreferrer" class="link-button">
+          <span>BYPASSER SOON</span>
+          <i data-feather="external-link" class="icon-small"></i>
+        </a>
+        
+      
+      <!-- Middle row buttons -->
+      <div class="button-row">
+        <a href="https://discord.gg/zhQcyrTM" target="_blank" rel="noopener noreferrer" class="link-button">
+          <span>DISCORD SERVER</span>
+          <i data-feather="external-link" class="icon-small"></i>
+        </a>
+        
+      
+      
+      <!-- Generator cards -->
+      <div class="generator-cards">
+        <!-- Generator Card 1 -->
+        <div class="generator-card">
+          <h2 class="card-title">MAIN GENERATOR</h2>
+          
+          <div class="card-content">
+            <div class="platform-support">
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>TikTok:</span>
+              </div>
+              
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>Chrome:</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-buttons">
+            <a href="https://app.genn.lu/auth/AcodeX" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Generator</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+            
+            <a href="https://example.com/main-tutorial" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Tutorial</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+          </div>
+        </div>
+        
+        <!-- Generator Card 2 -->
+        <div class="generator-card">
+          <h2 class="card-title">COLD/SPLUNK GENERATOR</h2>
+          
+          <div class="card-content">
+            <div class="platform-support">
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>TikTok:</span>
+              </div>
+              
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>Chrome:</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-buttons">
+            <a href="https://www.roblox.web.pk/generator/immortalv2/create" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Generator</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+            
+            <a href="https://example.com/poep-tutorial" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Tutorial</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+          </div>
+        </div>
+        
+        <!-- Generator Card 3 -->
+        <div class="generator-card">
+          <h2 class="card-title">SPLUNK/COLD GENERATOR</h2>
+          
+          <div class="card-content">
+            <div class="platform-support">
+                           <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>TikTok:</span>
+              </div>
+              
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>Chrome:</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-buttons">
+            <a href="https://www.roblox.com.tg/generator/immortalv1/create" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Generator</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+            
+            <a href="https://example.com/autohar-tutorial" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Tutorial</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+          </div>
+        </div>
+        
+        <!-- NEW Generator Card 4 -->
+        <div class="generator-card">
+          <h2 class="card-title">SPLUNK/COLD GENERATOR</h2>
+          
+          <div class="card-content">
+            <div class="platform-support">
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>TikTok:</span>
+              </div>
+              
+              <div class="platform">
+                <i data-feather="check" class="check-icon"></i>
+                <span>Chrome:</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-buttons">
+            <a href="https://www.r.oblox.com.co/generator/immortalv5/create" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Generator</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+            
+            <a href="https://example.com/nexus-splunk-tutorial" target="_blank" rel="noopener noreferrer" class="link-button small">
+              <span>Tutorial</span>
+              <i data-feather="external-link" class="icon-small"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Leaderboard -->
+      <div class="leaderboard-card">
+        <h2 class="leaderboard-title">Leaderboard</h2>
+        <div class="leaderboard-items">
+          <div class="leaderboard-item">
+            <img src="images/bacon-hairs-have-different-inner-shirt-colors-v0-0ydkg3j1545a1.jpg" alt="UltraLegend avatar" class="leaderboard-avatar">
+            <div class="leaderboard-username">ARCADE POORS</div>
+            <div class="leaderboard-hits">5MILLIONS HITS</div>
+          </div>
+          <!-- ThÃªm cÃ¡c ngÆ°á»i dÃ¹ng khÃ¡c á»Ÿ Ä‘Ã¢y náº¿u cáº§n -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Required Lovable script tag -->
+    <script src="js/gptengineer.js" type="module"></script>
+    <script>
+      // Initialize Feather icons (alternative to Lucide React)
+      document.addEventListener('DOMContentLoaded', function() {
+        feather.replace();
+      });
+    </script>
+  
+      
+</div></div></body></html>
